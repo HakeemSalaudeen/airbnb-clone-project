@@ -1,5 +1,3 @@
-# airbnb-clone-project
-
 # 🏠 AirBnB Clone Backend Project
 
 ## 🎯 Project Overview
@@ -152,19 +150,19 @@ User-generated reviews and ratings to build trust and provide property insights.
 
 ## 🛠 Setup and Installation
 
-```bash
+<!-- ```bash
 # Clone the repository
 git clone https://github.com/yourusername/airbnb-clone-backend.git
 
-# # Create virtual environment
-# python -m venv venv
-# source venv/bin/activate
+# Create virtual environment
+python -m venv venv
+source venv/bin/activate
 
-# # Install dependencies
-# pip install -r requirements.txt
+# Install dependencies
+pip install -r requirements.txt
 
-# # Run migrations
-# python manage.py migrate
+# Run migrations
+python manage.py migrate
 
-# # Start development server
-# python manage.py runserver
+# Start development server
+python manage.py runserver -->
